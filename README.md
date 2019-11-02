@@ -6,3 +6,6 @@ User Management
 - Register 
 - Forgot Password
 - Multi User
+
+
+Admin Theme : SB Admin 2 https://github.com/BlackrockDigital/startbootstrap-sb-admin-2 
