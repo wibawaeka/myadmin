@@ -8,6 +8,6 @@ User Management
 - Multi User
 
 
-Admin Theme   : SB Admin 2 https://github.com/BlackrockDigital/startbootstrap-sb-admin-2 /r
+Admin Theme   : SB Admin 2 https://github.com/BlackrockDigital/startbootstrap-sb-admin-2 <br/>
 PHP Framework : Codeigniter 3 https://github.com/bcit-ci/CodeIgniter
 
